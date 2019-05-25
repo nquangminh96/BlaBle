@@ -1,0 +1,359 @@
+{
+  "project_info": {
+    "project_number": "985112474411",
+    "firebase_url": "https://doan1-80315.firebaseio.com",
+    "project_id": "doan1-80315",
+    "storage_bucket": "doan1-80315.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985112474411:android:a92ad064ccd14953",
+        "android_client_info": {
+          "package_name": "com.example.bachchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985112474411-adt8hfrg9dtlvpohl0vqj4btq33qsvu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ3wzo8vhR2A7q-yD7ILFvlnjXZfoXjRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985112474411-adt8hfrg9dtlvpohl0vqj4btq33qsvu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985112474411:android:6193245cf3d5c5af",
+        "android_client_info": {
+          "package_name": "com.example.duyanhchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985112474411-adt8hfrg9dtlvpohl0vqj4btq33qsvu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ3wzo8vhR2A7q-yD7ILFvlnjXZfoXjRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985112474411-adt8hfrg9dtlvpohl0vqj4btq33qsvu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985112474411:android:b2f32b44ed124112",
+        "android_client_info": {
+          "package_name": "com.example.hoanganhchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985112474411-adt8hfrg9dtlvpohl0vqj4btq33qsvu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ3wzo8vhR2A7q-yD7ILFvlnjXZfoXjRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985112474411-adt8hfrg9dtlvpohl0vqj4btq33qsvu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985112474411:android:fc56836f32cd52ca",
+        "android_client_info": {
+          "package_name": "com.example.huyanhchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985112474411-adt8hfrg9dtlvpohl0vqj4btq33qsvu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ3wzo8vhR2A7q-yD7ILFvlnjXZfoXjRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985112474411-adt8hfrg9dtlvpohl0vqj4btq33qsvu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985112474411:android:88339ca302be26a9",
+        "android_client_info": {
+          "package_name": "com.example.minhchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985112474411-adt8hfrg9dtlvpohl0vqj4btq33qsvu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ3wzo8vhR2A7q-yD7ILFvlnjXZfoXjRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985112474411-adt8hfrg9dtlvpohl0vqj4btq33qsvu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985112474411:android:c0c99f685eecc062",
+        "android_client_info": {
+          "package_name": "com.example.thaochatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985112474411-adt8hfrg9dtlvpohl0vqj4btq33qsvu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ3wzo8vhR2A7q-yD7ILFvlnjXZfoXjRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985112474411-adt8hfrg9dtlvpohl0vqj4btq33qsvu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985112474411:android:f5a89c050325f097",
+        "android_client_info": {
+          "package_name": "com.example.thienchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985112474411-adt8hfrg9dtlvpohl0vqj4btq33qsvu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ3wzo8vhR2A7q-yD7ILFvlnjXZfoXjRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985112474411-adt8hfrg9dtlvpohl0vqj4btq33qsvu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985112474411:android:916a9fa31b0f9ed3",
+        "android_client_info": {
+          "package_name": "com.example.thuychatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985112474411-adt8hfrg9dtlvpohl0vqj4btq33qsvu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ3wzo8vhR2A7q-yD7ILFvlnjXZfoXjRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985112474411-adt8hfrg9dtlvpohl0vqj4btq33qsvu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985112474411:android:efe769bc172cd58d",
+        "android_client_info": {
+          "package_name": "com.example.trichatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985112474411-adt8hfrg9dtlvpohl0vqj4btq33qsvu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ3wzo8vhR2A7q-yD7ILFvlnjXZfoXjRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985112474411-adt8hfrg9dtlvpohl0vqj4btq33qsvu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985112474411:android:e965287fd3f2eba1",
+        "android_client_info": {
+          "package_name": "com.example.tuananhchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985112474411-adt8hfrg9dtlvpohl0vqj4btq33qsvu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ3wzo8vhR2A7q-yD7ILFvlnjXZfoXjRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985112474411-adt8hfrg9dtlvpohl0vqj4btq33qsvu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985112474411:android:fb159e12c6cffe5e",
+        "android_client_info": {
+          "package_name": "com.example.tuanchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985112474411-adt8hfrg9dtlvpohl0vqj4btq33qsvu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ3wzo8vhR2A7q-yD7ILFvlnjXZfoXjRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985112474411-adt8hfrg9dtlvpohl0vqj4btq33qsvu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985112474411:android:ec173c69b0625ed8",
+        "android_client_info": {
+          "package_name": "com.example.vietanhchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985112474411-adt8hfrg9dtlvpohl0vqj4btq33qsvu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ3wzo8vhR2A7q-yD7ILFvlnjXZfoXjRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985112474411-adt8hfrg9dtlvpohl0vqj4btq33qsvu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
